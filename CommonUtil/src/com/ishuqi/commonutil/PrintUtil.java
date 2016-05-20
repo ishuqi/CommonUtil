@@ -3,6 +3,7 @@ package com.ishuqi.commonutil;
 
 import java.util.List;
 
+//add for test
 public class PrintUtil {
 
     public static <T> void printArray(T[] array) {
